@@ -22,17 +22,27 @@ Neste espaço, estou empolgado em compartilhar meus projetos, experiências e pe
 
 Aqui estão alguns dos projetos em que estou trabalhando atualmente:
 
-### EvolutionX do RazaDroid e Electimon
+## Projetos
 
-- **Descrição:** Estou testando a custom ROM EvolutionX, desenvolvida pelo RazaDroid e pelo Electimon, no meu Moto G9 Play. A EvolutionX é uma ROM baseada no Android Open Source Project (AOSP) e oferece uma experiência de usuário altamente personalizável e estável. Estou explorando as diferentes configurações e recursos que a EvolutionX oferece, bem como relatando bugs e fornecendo feedback para aprimorar a ROM.
+### EvolutionX do RazaDroid e Electimon
+Descrição: Estou testando a custom ROM EvolutionX, desenvolvida pelo RazaDroid e pelo Electimon, no meu Moto G9 Play. A EvolutionX é uma ROM baseada no Android Open Source Project (AOSP) e oferece uma experiência de usuário altamente personalizável e estável. Estou explorando as diferentes configurações e recursos que a EvolutionX oferece, bem como relatando bugs e fornecendo feedback para aprimorar a ROM.
 
 ### Kindle JB
-
-- **Descrição:** Também estou envolvido em testes e experimentações no Kindle JB. Recentemente, executei o hotfix JB 1.16 no Kindle 10ª Geração com a versão do software 1.14.2. Estou explorando o funcionamento dessa versão e buscando maneiras de otimizar e melhorar a experiência do usuário no dispositivo.
+Descrição: Também estou envolvido em testes e experimentações no Kindle JB. Recentemente, executei o hotfix JB 1.16 no Kindle 10ª Geração com a versão do software 1.14.2. Estou explorando o funcionamento dessa versão e buscando maneiras de otimizar e melhorar a experiência do usuário no dispositivo.
 
 ### KOReader.rocks no Kindle
+Descrição: Realizei a instalação do KOReader.rocks em meu Kindle 10ª Geração, permitindo uma experiência de leitura mais aprimorada.
 
- - **Descrição:**  Também realizei a instalação do KOReader.rocks em meu Kindle 10ª Geração, permitindo uma experiência de leitura mais aprimorada.
+### Toca do mano Jorgin (Grupo no Telegram de Usuários do Motorola G9 Play)
+Descrição: Estou colaborando com o colega Zhar na administração do grupo "Toca do mano Jorgin", um espaço dedicado aos usuários do celular Motorola G9 Play. Nesse grupo, compartilhamos experiências, dicas, customizações e soluções relacionadas ao dispositivo. É uma oportunidade de aprender, ajudar e interagir com outros usuários apaixonados por tecnologia.
+
+## Root
+
+### Magisk
+**Descrição:** Fiz meu primeiro root no meu dispositivo desbloqueando o bootloader e, em seguida, flasheando o boot modificado do Magisk (boot.img). Agora tenho acesso a recursos avançados de personalização e controle sobre o sistema operacional do meu dispositivo.
+
+### KernelSU Root
+**Descrição:** Fiz root no meu dispositivo utilizando o KernelSU.
 
 Esses são apenas alguns dos projetos em que estou trabalhando atualmente. Estou sempre buscando aprender e crescer no mundo da tecnologia Android e ficarei feliz em compartilhar mais sobre meus projetos e descobertas com a comunidade. Fique atento às atualizações e novidades neste repositório! 🚀
 
