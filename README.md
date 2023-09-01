@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará uma variedade de projetos 
 
 # Sobre Mim
 
-![Gabriel Cavalieri](https://user-images.githubusercontent.com/140845825/256920950-e9b921fb-3f09-4488-8150-f2fa9b93e008.jpg)
+![Gabriel Cavalieri](https://user-images.githubusercontent.com/140845825/265102504-b3fdf483-de4e-4bb7-84f9-b7e46ba7d5ee.jpg)
 
 Olá! Meu nome é Gabriel Cavalieri, tenho 17 anos e sou um estudante do 2º ano do ensino médio. Sou apaixonado por tecnologia, especialmente por testar projetos open-source e explorar novas possibilidades.
 
