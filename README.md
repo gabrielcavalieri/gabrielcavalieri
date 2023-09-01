@@ -1,4 +1,4 @@
-/# Gabriel Cavalieri - Meu Repositório
+# Gabriel Cavalieri - Meu Repositório
 
 Bem-vindo ao meu repositório! Aqui você encontrará uma variedade de projetos e trabalhos que estou desenvolvendo ao longo do tempo.
 
