@@ -17,7 +17,7 @@ Olá! 👋 Sou Gabriel Cavalieri, um estudante do 2º ano do ensino médio apaix
 ## Projetos Destacados
 
 - ✨ [Projeto de Música Gerada por IA](https://drive.google.com/drive/folders/1QVPoTQ0F4HXXFtk0Y5SQE_mHRDaaU2Q5?usp=sharing)
-- 📱 [Customização de Celulares com Temas Personalizados]((https://drive.google.com/drive/folders/1MoLKFdKjGfGZ0BVLHX1IPPzNeJuwq5rb?usp=sharing)
+- 📱 [Customização de Celulares com Temas Personalizados](https://drive.google.com/drive/folders/1MoLKFdKjGfGZ0BVLHX1IPPzNeJuwq5rb?usp=sharing)
 
 ## Contato
 
