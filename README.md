@@ -23,7 +23,7 @@ Olá! 👋 Sou Gabriel Cavalieri, um estudante do 2º ano do ensino médio apaix
 
 - 📧 Email: [gabrielcg260@gmail.com](mailto:gabrielcg260@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/gabrielcavalierii](https://www.linkedin.com/in/gabrielcavalierii/)
-- 📷 Instagram: [@seuusuario](https://www.instagram.com/gabrielcavalierii/)
+- 📷 Instagram: [@gabriel.cavalierii](https://www.instagram.com/gabrielcavalierii/)
 
 ## Idiomas
 
