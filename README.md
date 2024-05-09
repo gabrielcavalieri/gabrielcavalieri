@@ -15,7 +15,8 @@
 ## Meus Projetos em Destaque 🚀
 
 - 🎶 Projeto de Música Gerada por IA: Coloque os fones de ouvido e mergulhe no mundo das melodias geradas por inteligência artificial!
-
+- 🎨 Arte Digital Gerada por IA: Abra os olhos e visualize o mundo da arte gerada por inteligência artificial!
+  
 ## Fale Comigo! 📫
 
 Quer conversar sobre tecnologia, livros, ou apenas trocar ideias? Estou sempre à disposição!
