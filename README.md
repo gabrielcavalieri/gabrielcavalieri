@@ -14,8 +14,7 @@
 
 ## Meus Projetos em Destaque 🚀
 
-- 🎶 [Projeto de Música Gerada por IA](https://drive.google.com/drive/folders/1QVPoTQ0F4HXXFtk0Y5SQE_mHRDaaU2Q5?usp=sharing): Coloque os fones de ouvido e mergulhe no mundo das melodias geradas por inteligência artificial!
-- 📱 [Customização de Celulares com Temas Personalizados](https://drive.google.com/drive/folders/1MoLKFdKjGfGZ0BVLHX1IPPzNeJuwq5rb?usp=sharing): Transforme seu telefone em uma obra-prima visual com meus temas personalizados e mods!
+- 🎶 [Projeto de Música Gerada por IA]: Coloque os fones de ouvido e mergulhe no mundo das melodias geradas por inteligência artificial!
 
 ## Fale Comigo! 📫
 
@@ -23,7 +22,7 @@ Quer conversar sobre tecnologia, livros, ou apenas trocar ideias? Estou sempre �
 
 - 📧 Email: gabrielcg260@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/gabrielcavalierii](https://www.linkedin.com/in/gabrielcavalierii/)
-- 📷 Instagram: [@gabe.cavalieri](https://www.instagram.com/gabe.cavalieri/)
+- 📷 Instagram: [@gabe.cavalieri](https://www.instagram.com/gabe.cavalieri)
 
 ## Idiomas
 
