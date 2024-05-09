@@ -1,7 +1,6 @@
 # 👋 Bem-vindo ao meu mundo digital! Sou o Gabriel Cavalieri. 
 
-![Imagem de Gabriel Cavalieri](https://photos.app.goo.gl/Q9NbFM5D8aZ3TXmEA)
-
+![Imagem de Gabriel Cavalieri](https://github.com/gabrielcavalieri/gabrielcavalieri/blob/main/IMG_20240503_160440445_HDR_AE.jpg)
 ## Quem Sou Eu
 
 📚 Leitor voraz, entusiasta da tecnologia e da programação, e um explorador incansável do universo da inteligência artificial! Estou no último ano do ensino médio, na Escola Estadual Aristóbulo Barbosa Leão, e minha missão é tornar o mundo um lugar mais divertido e tecnológico.
@@ -24,7 +23,7 @@ Quer conversar sobre tecnologia, livros, ou apenas trocar ideias? Estou sempre �
 
 - 📧 Email: gabrielcg260@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/gabrielcavalierii](https://www.linkedin.com/in/gabrielcavalierii/)
-- 📷 Instagram: [@gabriel.cavalieriik](https://www.instagram.com/gabrielcavalieriik/)
+- 📷 Instagram: [@gabriel.cavalieriik](https://www.instagram.com/gabe.cavalieri/)
 
 ## Idiomas
 
