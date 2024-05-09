@@ -14,14 +14,14 @@
 
 ## Meus Projetos em Destaque 🚀
 
-- 🎶 [Projeto de Música Gerada por IA]: Coloque os fones de ouvido e mergulhe no mundo das melodias geradas por inteligência artificial!
+- 🎶 Projeto de Música Gerada por IA: Coloque os fones de ouvido e mergulhe no mundo das melodias geradas por inteligência artificial!
 
 ## Fale Comigo! 📫
 
 Quer conversar sobre tecnologia, livros, ou apenas trocar ideias? Estou sempre à disposição!
 
 - 📧 Email: gabrielcg260@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/gabrielcavalierii](https://www.linkedin.com/in/gabrielcavalierii/)
+- 🔗 LinkedIn: [gabrielcavalierii](https://www.linkedin.com/in/gabrielcavalierii/)
 - 📷 Instagram: [@gabe.cavalieri](https://www.instagram.com/gabe.cavalieri)
 
 ## Idiomas
