@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu mundo digital! Sou o Gabriel Cavalieri. 
 
-![Imagem de Gabriel Cavalieri](link_para_imagem)
+![Imagem de Gabriel Cavalieri](https://photos.app.goo.gl/Q9NbFM5D8aZ3TXmEA)
 
 ## Quem Sou Eu
 
