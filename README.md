@@ -23,7 +23,7 @@ Quer conversar sobre tecnologia, livros, ou apenas trocar ideias? Estou sempre �
 
 - 📧 Email: gabrielcg260@gmail.com
 - 🔗 LinkedIn: [gabrielcavalierii](https://www.linkedin.com/in/gabrielcavalierii/)
-- 📷 Instagram: [@gabe.cavalieri](https://www.instagram.com/gabe.cavalieri)
+- 📷 Instagram: [@gabrielcavalieri027](https://www.instagram.com/gabrielcavalieri027)
 
 ## Idiomas
 
