@@ -4,19 +4,19 @@
 
 ## 🌟 Quem Sou Eu
 
-📚 Leitor voraz, entusiasta da tecnologia e programação, e um explorador incansável do universo da inteligência artificial!  
-Estou no último ano do ensino médio, na Escola Estadual Aristóbulo Barbosa Leão, com a missão de tornar o mundo mais divertido e tecnológico. Meu foco está em projetos que unem criatividade, impacto social e tecnologia.
+📚 Leitor voraz e entusiasta da tecnologia.  
+Terminei o ensino médio em 2024 na Escola Estadual Aristóbulo Barbosa Leão e estou mergulhado em projetos que unem criatividade, impacto social e inovação tecnológica.
 
-Sou membro da comunidade LGBTQIA+ e uso minhas experiências de vida como inspiração para promover inclusão, diversidade e inovação.
+Sou membro da comunidade LGBTQIA+ e uso minhas experiências para promover inclusão, diversidade e transformar o mundo com tecnologia.
 
 ---
 
 ## 💪 Meus Superpoderes  
 
 - **💻 Desenvolvimento de Software:** Transformo ideias em soluções práticas.  
-- **🤖 Inteligência Artificial:** Domador de algoritmos e criador de sistemas inteligentes, incluindo assistentes de IA personalizados.  
-- **🎨 Personalização e Mods:** Designer de temas e mods para jogos, unindo arte e tecnologia.  
-- **🎵 Música Gerada por IA:** Compositor de trilhas e melodias criadas por inteligência artificial.  
+- **🤖 Inteligência Artificial:** Crio sistemas inteligentes e assistentes de IA personalizados.  
+- **🎨 Personalização e Mods:** Desenvolvo temas e mods para jogos, unindo arte e tecnologia.  
+- **🎵 Música Gerada por IA:** Produzo trilhas e melodias que unem tecnologia e criatividade.  
 
 ---
 
@@ -34,7 +34,11 @@ Sou membro da comunidade LGBTQIA+ e uso minhas experiências de vida como inspir
 - **Foco:** Personalização para acessibilidade, com aplicação de redes neurais e processamento de áudio.  
 
 ### 🎶 **Música Gerada por IA**  
-- Produção de trilhas sonoras que unem tecnologia e arte, explorando novas fronteiras na composição musical.  
+- Produção de trilhas sonoras que exploram novas fronteiras na composição musical com inteligência artificial.  
+
+### 📚 **KOReader e Jailbreak**  
+- **KOReader:** Projeto focado na customização e otimização de leitores digitais.  
+- **Jailbreak:** Desenvolvimento de soluções para o Kindle Paperwhite Signature Edition 11º Geração e Kindle 10º Geração, permitindo maior personalização e uso avançado dos dispositivos.  
 
 ---
 
@@ -50,7 +54,7 @@ Adoro conversar sobre tecnologia, música e inovação! Vamos trocar ideias e cr
 
 ## 🌈 Inclusão e Diversidade  
 
-Como portador de TEA, TDAH e transtorno bipolar, busco usar minhas experiências para inspirar outras pessoas a verem a tecnologia como uma ferramenta de empoderamento e mudança social. Quero que meu trabalho sirva como um exemplo de como a diversidade é essencial para a inovação.
+Como portador de TEA, TDAH e transtorno bipolar, uso minhas experiências para inspirar outras pessoas a verem a tecnologia como uma ferramenta de empoderamento e mudança social. Acredito que a diversidade é essencial para a inovação.
 
 ---
 
@@ -64,3 +68,4 @@ Como portador de TEA, TDAH e transtorno bipolar, busco usar minhas experiências
 ## 📚 Aprendizado Contínuo  
 
 Estou sempre explorando novas tecnologias e aprendendo algo novo. Sinta-se à vontade para explorar meus projetos e entrar em contato. Vamos construir juntos o futuro da tecnologia! 💥
+```
